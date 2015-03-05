@@ -1,0 +1,5 @@
+Date;Iteration;Modele;AUC;Nombre de variables
+06/02/2015;1;Regression logistique;0,662;10
+13/02/2015;2;Random Forests;0,738;10
+20/02/2015;3;GBM;0,747;10
+27/02/2015;4;GBM;0,811;30

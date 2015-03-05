@@ -1,0 +1,63 @@
+Origin.State;Total;Accident;Ratio
+Quebec;27;0;0
+Saskatchewan;4;0;0
+Manitoba;10;0;0
+Nova Scotia;5;0;0
+Hawaii;2009;22;0.011
+Virgin Islands;80;1;0.0125
+DC;1645;27;0.0164
+Iowa;717;12;0.0167
+Colorado;4214;71;0.0168
+New York;4986;97;0.0195
+New Jersey;2936;66;0.0225
+New Hampshire;603;14;0.0232
+Rhode Island;431;10;0.0232
+Puerto Rico;169;4;0.0237
+British Columbia;84;2;0.0238
+Pennsylvania;2781;69;0.0248
+Arizona;1776;45;0.0253
+Massachusetts;1494;38;0.0254
+Kentucky;2178;57;0.0262
+North Carolina;1399;37;0.0264
+Maine;318;9;0.0283
+Connecticut;808;23;0.0285
+Illinois;3987;115;0.0288
+Nebraska;1265;37;0.0292
+Missouri;2435;75;0.0308
+Michigan;2294;73;0.0318
+Indiana;1330;43;0.0323
+Ohio;3537;115;0.0325
+Ontario;92;3;0.0326
+Montana;181;6;0.0331
+Georgia;1514;52;0.0343
+Texas;7824;273;0.0349
+Tennessee;3057;107;0.035
+Louisiana;2147;77;0.0359
+California;7803;289;0.037
+Nevada;429;16;0.0373
+North Dakota;450;17;0.0378
+South Carolina;1127;43;0.0382
+Mississippi;544;22;0.0404
+Maryland;1238;51;0.0412
+Minnesota;1105;47;0.0425
+Oklahoma;1013;45;0.0444
+Utah;1237;56;0.0453
+Washington;1446;66;0.0456
+Kansas;636;30;0.0472
+Virginia;951;46;0.0484
+New Mexico;372;18;0.0484
+Florida;5322;258;0.0485
+Vermont;138;7;0.0507
+Oregon;1493;76;0.0509
+Alabama;745;38;0.051
+Wisconsin;985;51;0.0518
+Idaho;283;16;0.0565
+Arkansas;463;28;0.0605
+Alberta;32;2;0.0625
+West Virginia;286;18;0.0629
+Delaware;284;20;0.0704
+Prince Edward Island;144;11;0.0764
+Wyoming;148;12;0.0811
+South Dakota;331;27;0.0816
+Alaska;570;59;0.1035
+Newfoundland and Labrador;8;1;0.125
